@@ -1,2 +1,1 @@
-Source file3
 New string
