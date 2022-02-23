@@ -1,2 +1,5 @@
 Source file1
 Adding new string
+if then else
+too much
+
